@@ -1,5 +1,5 @@
 //Author: Victor R. Cornejo
-//Homework Assignment #2 = Javascript Logic and Loopos
+//Homework Assignment #2 = Javascript Logic and Loops
 
 //Part 1 - Evaluating Variable's Value
 function evalValue(num){
